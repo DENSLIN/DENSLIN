@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 My academic background includes a Bachelor of Engineering in Artificial Intelligence and Data Science from **Fr. Conceicao Rodrigues College of Engineering, Mumbai University**, where I specialized in advanced topics related to **Neural Networks, Machine Learning, and Natural Language Processing**. Additionally, my hands-on experience with projects involving Long Short-Term Memory (LSTM) networks, both in academic and personal settings, has equipped me with practical skills in building and optimizing sophisticated models. I have solved 250+ Leetcode problems. I gained a solid foundation in programming concepts and algorithms.
 
