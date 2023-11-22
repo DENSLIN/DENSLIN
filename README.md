@@ -1,4 +1,5 @@
 # demo
 
-some text
- ad
+My academic background includes a Bachelor of Engineering in Artificial Intelligence and Data Science from **Fr. Conceicao Rodrigues College of Engineering, Mumbai University**, where I specialized in advanced topics related to **Neural Networks, Machine Learning, and Natural Language Processing**. Additionally, my hands-on experience with projects involving Long Short-Term Memory (LSTM) networks, both in academic and personal settings, has equipped me with practical skills in building and optimizing sophisticated models. I have solved 250+ Leetcode problems. I gained a solid foundation in programming concepts and algorithms.
+
+As a Developer, I have a solid foundation in programming languages and tools  such as **Python, C++, Git, Java, Pytorch, TensorFlow, Linux, Jupiter Notebook, and DataScraping** (Beautiful Soup) thus my skills align with the demanding role of creating scalable and efficient software. I've worked with a variety of teams and appreciate the importance of effective communication and information sharing. I am the **First Author** of **AI-Driven Trafic Lights (ICCCNT IEEE, IIT Delhi)**.
